@@ -7,4 +7,4 @@ For the lesson of **Knowledge Systems and Technologies** we had to solve 3 progr
 **Web Ontology Language (OWL)**,  **SPARQL Query Language** 
 While also making use of 
 **Protégé 5.5.0**
- and **GraphDB**
+ and **GraphDB**.
