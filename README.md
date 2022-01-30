@@ -1,4 +1,5 @@
-# BigData-Knowledge-NTUA
+# Semantic-Web-Big-Data
+
 
 
 For the lesson of **Knowledge Systems and Technologies** we had to solve 3 programming set on the topics of **Description Logics**
